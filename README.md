@@ -1,2 +1,2 @@
-[Read this page in English](http....README.md)
+[Read this page in English](http....README.md) <img src="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-dos-estados-unidos.png/@@images/image.png" alt="PtBR logo" style="height: 17,5px; width:25px;"/>
 [Leia esta página em português](http....README-pt.md) <img src="https://www.curitiba.pr.leg.br/atividade-parlamentar/legislacao/imagens/bandeira-do-brasil.png/image" alt="PtBR logo" style="height: 17,5px; width:25px;"/>
