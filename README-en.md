@@ -1,1 +1,1 @@
-
+[Leia esta página em português](https://github.com/henriquegt/henriquegt/blob/main/README.md) <img src="https://www.curitiba.pr.leg.br/atividade-parlamentar/legislacao/imagens/bandeira-do-brasil.png/image" alt="PtBR logo" style="height: 17,5px; width:25px;"/>
